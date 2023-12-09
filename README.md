@@ -2,11 +2,11 @@
 
 This repository contains code for 2 tasks given on a laboratorium #5 in Computational Architecture conducted using mixed programming in C & Assembly x86 
 
-## 'cone_area.*' Files
+## 'cone_volume.*' Files
 
-Files with this name are files with code that calculates the area of a cone. Data such as radius, height, etc are given in the C program, while all of the calculations are managed by coprocessor using Assembly x86. 
+Files with this name are files with code that calculates the volume of a cone. Data such as radius, height, etc are given in the C program, while all of the calculations are managed by coprocessor using Assembly x86. 
 
-The formula by which the area is calculated:
+The formula by which the volume is calculated:
 
 $$V=\frac{1}{3}\pi h(R^2+Rr+r^2)$$
 
